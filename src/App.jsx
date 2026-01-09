@@ -32,7 +32,7 @@ export default function App() {
       <Typography variant="h5" sx={{ mt: 3 }}>Instructions</Typography>
       <Typography variant="body1" component="div">
         <ul>
-          <li><strong>iOS:</strong> Calendar > File > New Calendar Subscription</li>
+          <li><strong>iOS:</strong> Calendar &#62; File &#62; New Calendar Subscription</li>
           <li><strong>Google:</strong> "Add by URL" in settings</li>
         </ul>
       </Typography>
